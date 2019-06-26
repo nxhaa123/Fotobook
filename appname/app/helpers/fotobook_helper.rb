@@ -1,0 +1,2 @@
+module FotobookHelper
+end
